@@ -1,0 +1,10 @@
+yarn
+pnpm
+node_modules
+github-copilot
+configstore
+raycast
+planetscale
+firebase
+.DS_Store
+gcloud
